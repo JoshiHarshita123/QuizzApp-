@@ -6,7 +6,7 @@ The application is built using **React.js** and styled with **Tailwind CSS**. Th
 
 ## Live Demo
 
-[A live version of this application can be hosted on platforms like Netlify, Vercel, or GitHub Pages.]
+[A live version of this application is hosted on https://quizapp017.netlify.app/.]
 
 ## Features Implemented
 
